@@ -203,26 +203,7 @@
             "settings": {
               "title": "Slideshow",
               "text": "Introduce customers to your shop with lifestyle and product imagery",
-              "color": "#FFFFFF",
-              "link": "",
-              "text_alignment": "center",
-              "button_one_label": "Button",
-              "button_one_link": "",
-              "button_one_style": "primary",
-              "button_two_label": "",
-              "button_two_link": "",
-              "button_two_style": "primary",
-              "show_overlay": true,
-              "overlay_color": "#000000",
-              "overlay_opacity": 50
-            }
-          },
-          "static-slideshow-1": {
-            "type": "slide",
-            "settings": {
-              "title": "Slideshow",
-              "text": "Introduce customers to your shop with lifestyle and product imagery",
-              "color": "#FFFFFF",
+              "color": "#ffffff",
               "link": "",
               "text_alignment": "center",
               "button_one_label": "Button",
@@ -238,8 +219,7 @@
           }
         },
         "block_order": [
-          "static-slideshow-0",
-          "static-slideshow-1"
+          "static-slideshow-0"
         ],
         "settings": {
           "show_slideshow": true,
