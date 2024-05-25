@@ -119,7 +119,7 @@
         ],
         "settings": {
           "payment_icons": true,
-          "additional_menu": "footer"
+          "additional_menu": ""
         }
       },
       "static-product": {
