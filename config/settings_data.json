@@ -224,45 +224,7 @@
               "background_image": "shopify:\/\/shop_images\/mmpic.jpg",
               "title": "Slideshow",
               "text": "Introduce customers to your shop with lifestyle and product imagery",
-              "color": "#FFFFFF",
-              "link": "",
-              "text_alignment": "center",
-              "button_one_label": "Button",
-              "button_one_link": "",
-              "button_one_style": "primary",
-              "button_two_label": "",
-              "button_two_link": "",
-              "button_two_style": "primary",
-              "show_overlay": true,
-              "overlay_color": "#000000",
-              "overlay_opacity": 50
-            }
-          },
-          "slide_XbDBRE": {
-            "type": "slide",
-            "settings": {
-              "title": "Slideshow",
-              "text": "Introduce customers to your shop with lifestyle and product imagery",
-              "color": "#FFFFFF",
-              "link": "",
-              "text_alignment": "center",
-              "button_one_label": "Button",
-              "button_one_link": "",
-              "button_one_style": "primary",
-              "button_two_label": "",
-              "button_two_link": "",
-              "button_two_style": "primary",
-              "show_overlay": true,
-              "overlay_color": "#000000",
-              "overlay_opacity": 50
-            }
-          },
-          "slide_rQRyYi": {
-            "type": "slide",
-            "settings": {
-              "title": "Slideshow",
-              "text": "Introduce customers to your shop with lifestyle and product imagery",
-              "color": "#FFFFFF",
+              "color": "#ffffff",
               "link": "",
               "text_alignment": "center",
               "button_one_label": "Button",
@@ -279,9 +241,7 @@
         },
         "block_order": [
           "static-slideshow-0",
-          "slide_6DHw7e",
-          "slide_XbDBRE",
-          "slide_rQRyYi"
+          "slide_6DHw7e"
         ],
         "settings": {
           "show_slideshow": true,
