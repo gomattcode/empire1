@@ -201,6 +201,7 @@
           "static-slideshow-0": {
             "type": "slide",
             "settings": {
+              "background_image": "shopify:\/\/shop_images\/PXL_20240525_180243657.MP.jpg",
               "title": "Slideshow",
               "text": "Introduce customers to your shop with lifestyle and product imagery",
               "color": "#ffffff",
@@ -216,10 +217,71 @@
               "overlay_color": "#000000",
               "overlay_opacity": 50
             }
+          },
+          "slide_6DHw7e": {
+            "type": "slide",
+            "settings": {
+              "background_image": "shopify:\/\/shop_images\/mmpic.jpg",
+              "title": "Slideshow",
+              "text": "Introduce customers to your shop with lifestyle and product imagery",
+              "color": "#FFFFFF",
+              "link": "",
+              "text_alignment": "center",
+              "button_one_label": "Button",
+              "button_one_link": "",
+              "button_one_style": "primary",
+              "button_two_label": "",
+              "button_two_link": "",
+              "button_two_style": "primary",
+              "show_overlay": true,
+              "overlay_color": "#000000",
+              "overlay_opacity": 50
+            }
+          },
+          "slide_XbDBRE": {
+            "type": "slide",
+            "settings": {
+              "title": "Slideshow",
+              "text": "Introduce customers to your shop with lifestyle and product imagery",
+              "color": "#FFFFFF",
+              "link": "",
+              "text_alignment": "center",
+              "button_one_label": "Button",
+              "button_one_link": "",
+              "button_one_style": "primary",
+              "button_two_label": "",
+              "button_two_link": "",
+              "button_two_style": "primary",
+              "show_overlay": true,
+              "overlay_color": "#000000",
+              "overlay_opacity": 50
+            }
+          },
+          "slide_rQRyYi": {
+            "type": "slide",
+            "settings": {
+              "title": "Slideshow",
+              "text": "Introduce customers to your shop with lifestyle and product imagery",
+              "color": "#FFFFFF",
+              "link": "",
+              "text_alignment": "center",
+              "button_one_label": "Button",
+              "button_one_link": "",
+              "button_one_style": "primary",
+              "button_two_label": "",
+              "button_two_link": "",
+              "button_two_style": "primary",
+              "show_overlay": true,
+              "overlay_color": "#000000",
+              "overlay_opacity": 50
+            }
           }
         },
         "block_order": [
-          "static-slideshow-0"
+          "static-slideshow-0",
+          "slide_6DHw7e",
+          "slide_XbDBRE",
+          "slide_rQRyYi"
         ],
         "settings": {
           "show_slideshow": true,
