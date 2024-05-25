@@ -175,10 +175,25 @@
               "background": "",
               "opacity": 50
             }
+          },
+          "promotion_yVCyL4": {
+            "type": "promotion",
+            "settings": {
+              "title": "Mosaic",
+              "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
+              "color": "#4d4d4d",
+              "block_link": "",
+              "button_text": "",
+              "button_style": "primary",
+              "show_overlay": false,
+              "background": "",
+              "opacity": 50
+            }
           }
         },
         "block_order": [
-          "1510618581868-0"
+          "1510618581868-0",
+          "promotion_yVCyL4"
         ],
         "settings": {
           "title": "",
@@ -198,6 +213,64 @@
       "static-slideshow": {
         "type": "static-slideshow",
         "blocks": {
+          "slide_zirAyp": {
+            "type": "slide",
+            "settings": {
+              "background_image": "shopify:\/\/shop_images\/FullSizeRender_4.jpg",
+              "title": "Slideshow",
+              "text": "Introduce customers to your shop with lifestyle and product imagery",
+              "color": "#FFFFFF",
+              "link": "",
+              "text_alignment": "center",
+              "button_one_label": "Button",
+              "button_one_link": "",
+              "button_one_style": "primary",
+              "button_two_label": "",
+              "button_two_link": "",
+              "button_two_style": "primary",
+              "show_overlay": true,
+              "overlay_color": "#000000",
+              "overlay_opacity": 50
+            }
+          },
+          "slide_QUrcYM": {
+            "type": "slide",
+            "settings": {
+              "title": "Slideshow",
+              "text": "Introduce customers to your shop with lifestyle and product imagery",
+              "color": "#FFFFFF",
+              "link": "",
+              "text_alignment": "center",
+              "button_one_label": "Button",
+              "button_one_link": "",
+              "button_one_style": "primary",
+              "button_two_label": "",
+              "button_two_link": "",
+              "button_two_style": "primary",
+              "show_overlay": true,
+              "overlay_color": "#000000",
+              "overlay_opacity": 50
+            }
+          },
+          "slide_niqt7c": {
+            "type": "slide",
+            "settings": {
+              "title": "Slideshow",
+              "text": "Introduce customers to your shop with lifestyle and product imagery",
+              "color": "#FFFFFF",
+              "link": "",
+              "text_alignment": "center",
+              "button_one_label": "Button",
+              "button_one_link": "",
+              "button_one_style": "primary",
+              "button_two_label": "",
+              "button_two_link": "",
+              "button_two_style": "primary",
+              "show_overlay": true,
+              "overlay_color": "#000000",
+              "overlay_opacity": 50
+            }
+          },
           "static-slideshow-0": {
             "type": "slide",
             "settings": {
@@ -237,11 +310,34 @@
               "overlay_color": "#000000",
               "overlay_opacity": 50
             }
+          },
+          "slide_zM7LaR": {
+            "type": "slide",
+            "settings": {
+              "title": "Slideshow",
+              "text": "Introduce customers to your shop with lifestyle and product imagery",
+              "color": "#FFFFFF",
+              "link": "",
+              "text_alignment": "center",
+              "button_one_label": "Button",
+              "button_one_link": "",
+              "button_one_style": "primary",
+              "button_two_label": "",
+              "button_two_link": "",
+              "button_two_style": "primary",
+              "show_overlay": true,
+              "overlay_color": "#000000",
+              "overlay_opacity": 50
+            }
           }
         },
         "block_order": [
+          "slide_zirAyp",
+          "slide_QUrcYM",
+          "slide_niqt7c",
           "static-slideshow-0",
-          "slide_6DHw7e"
+          "slide_6DHw7e",
+          "slide_zM7LaR"
         ],
         "settings": {
           "show_slideshow": true,
