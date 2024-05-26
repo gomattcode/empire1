@@ -89,7 +89,7 @@
             "type": "rich_text",
             "settings": {
               "title": "ABOUT US",
-              "text": "<p>Shop around for some of the best deals online. We work closely with many suppliers to get you low prices for high quality products. Have a look and see. Take advantage of our prices while stock lasts!<\/p>"
+              "text": "<p>Updated About Us Section for testing purposes.<\/p>"
             }
           },
           "1505957932701": {
@@ -219,7 +219,7 @@
               "background_image": "shopify:\/\/shop_images\/FullSizeRender_4_e068be7a-aec8-46c5-aa6c-58576cf10428.jpg",
               "title": "Slideshow",
               "text": "Introduce customers to your shop with lifestyle and product imagery",
-              "color": "#FFFFFF",
+              "color": "#ffffff",
               "link": "",
               "text_alignment": "center",
               "button_one_label": "Button",
@@ -238,7 +238,7 @@
             "settings": {
               "title": "Slideshow",
               "text": "Introduce customers to your shop with lifestyle and product imagery",
-              "color": "#FFFFFF",
+              "color": "#ffffff",
               "link": "",
               "text_alignment": "center",
               "button_one_label": "Button",
@@ -257,7 +257,7 @@
             "settings": {
               "title": "Slideshow",
               "text": "Introduce customers to your shop with lifestyle and product imagery",
-              "color": "#FFFFFF",
+              "color": "#ffffff",
               "link": "",
               "text_alignment": "center",
               "button_one_label": "Button",
@@ -316,7 +316,7 @@
             "settings": {
               "title": "Slideshow",
               "text": "Introduce customers to your shop with lifestyle and product imagery",
-              "color": "#FFFFFF",
+              "color": "#ffffff",
               "link": "",
               "text_alignment": "center",
               "button_one_label": "Button",
